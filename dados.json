@@ -1,0 +1,102 @@
+{
+  "epis": [
+    {
+      "id": 1,
+      "codigo": "EPI-001",
+      "nome": "Capacete de Segurança Classe B",
+      "ca": "CA 31469",
+      "fabricante": "MSA Safety",
+      "validade": "2027-06-30",
+      "tamanho": "Único / Branco",
+      "risco": "Físico",
+      "lote": "LT2024-11",
+      "revisao": 180,
+      "diasvalidade": 1095,
+      "obs": "Para trabalhos com risco de choque elétrico até 20.000V. Substituir após impacto ou a cada 5 anos.",
+      "comentarios": [
+        {
+          "id": 1,
+          "texto": "Excelente capacete, aprovado pelo SESMT.",
+          "data": "2025-03-10"
+        },
+        {
+          "id": 2,
+          "texto": "Atenção: não utilizar sem o crachá de identificação de revisão.",
+          "data": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "codigo": "EPI-002",
+      "nome": "Luva de Proteção Química (Nitrila)",
+      "ca": "CA 40821",
+      "fabricante": "Honeywell",
+      "validade": "2026-12-31",
+      "tamanho": "G / Azul",
+      "risco": "Químico",
+      "lote": "LT2025-03",
+      "revisao": 30,
+      "diasvalidade": 365,
+      "obs": "Resistente a ácidos diluídos e solventes alifáticos. Verificar integridade antes de cada uso.",
+      "comentarios": [
+        {
+          "id": 1,
+          "texto": "Disponível no almoxarifado, solicitar ao supervisor.",
+          "data": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "codigo": "EPI-003",
+      "nome": "Respirador Semifacial PFF2 (N95)",
+      "ca": "CA 38035",
+      "fabricante": "3M",
+      "validade": "2028-01-15",
+      "tamanho": "M / Cinza",
+      "risco": "Biológico",
+      "lote": "LT2025-07",
+      "revisao": 7,
+      "diasvalidade": 30,
+      "obs": "Uso individual e descartável. Obrigatório em ambientes com partículas finas e agentes biológicos.",
+      "comentarios": []
+    },
+    {
+      "id": 4,
+      "codigo": "EPI-004",
+      "nome": "Óculos de Proteção Ampla Visão",
+      "ca": "CA 9741",
+      "fabricante": "Univet",
+      "validade": "2029-03-20",
+      "tamanho": "Único / Transparente",
+      "risco": "Físico",
+      "lote": "LT2024-09",
+      "revisao": 90,
+      "diasvalidade": 730,
+      "obs": "Lentes em policarbonato com tratamento anti-risco e anti-embaçante. Substituir quando houver arranhões.",
+      "comentarios": [
+        {
+          "id": 1,
+          "texto": "Exige higienização diária com álcool isopropílico.",
+          "data": "2025-11-05"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "codigo": "EPI-005",
+      "nome": "Calçado de Segurança Biqueira Composite",
+      "ca": "CA 28207",
+      "fabricante": "Bracol",
+      "validade": "2027-08-10",
+      "tamanho": "42 / Preto",
+      "risco": "Mecânico",
+      "lote": "LT2025-01",
+      "revisao": 365,
+      "diasvalidade": 730,
+      "obs": "Biqueira em fibra composite (não metálica), sola antiderrapante e antiestática.",
+      "comentarios": []
+    }
+  ]
+}
